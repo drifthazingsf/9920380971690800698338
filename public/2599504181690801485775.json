@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "208378313062",
+    "project_id": "quick-cash-ccee1",
+    "storage_bucket": "quick-cash-ccee1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208378313062:android:0ca22b52d7cd42a6c070a7",
+        "android_client_info": {
+          "package_name": "com.testcashto.alphan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208378313062-eh5kgmqvao0ilvnctg137ebhnv2l7e1m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNTwX-mWJdpXjjJMNyB1h5eYNyUa9iRU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208378313062-eh5kgmqvao0ilvnctg137ebhnv2l7e1m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
